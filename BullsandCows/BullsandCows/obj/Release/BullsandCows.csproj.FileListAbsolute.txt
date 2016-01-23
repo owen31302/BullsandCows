@@ -1,0 +1,9 @@
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\bin\Release\BullsandCows.exe.config
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\bin\Release\BullsandCows.exe
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\bin\Release\BullsandCows.pdb
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\obj\Release\BullsandCows.Form1.resources
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\obj\Release\BullsandCows.Properties.Resources.resources
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\obj\Release\BullsandCows.csproj.GenerateResource.Cache
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\obj\Release\BullsandCows.exe
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\obj\Release\BullsandCows.pdb
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\BullsandCows\BullsandCows\obj\Release\BullsandCows.csprojResolveAssemblyReference.cache

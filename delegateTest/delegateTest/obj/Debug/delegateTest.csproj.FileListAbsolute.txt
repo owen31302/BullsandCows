@@ -1,0 +1,6 @@
+c:\users\yucheng\documents\visual studio 2015\Projects\delegateTest\delegateTest\bin\Debug\delegateTest.exe.config
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\delegateTest\delegateTest\bin\Debug\delegateTest.exe
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\delegateTest\delegateTest\bin\Debug\delegateTest.pdb
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\delegateTest\delegateTest\obj\Debug\delegateTest.csprojResolveAssemblyReference.cache
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\delegateTest\delegateTest\obj\Debug\delegateTest.exe
+C:\Users\YuCheng\Documents\Visual Studio 2015\Projects\delegateTest\delegateTest\obj\Debug\delegateTest.pdb

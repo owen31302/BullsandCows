@@ -1,0 +1,9 @@
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\bin\Debug\BullsandCows.exe.config
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\bin\Debug\BullsandCows.exe
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\bin\Debug\BullsandCows.pdb
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\obj\Debug\BullsandCows.csprojResolveAssemblyReference.cache
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\obj\Debug\BullsandCows.Form1.resources
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\obj\Debug\BullsandCows.Properties.Resources.resources
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\obj\Debug\BullsandCows.csproj.GenerateResource.Cache
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\obj\Debug\BullsandCows.exe
+c:\users\yucheng\documents\visual studio 2015\Projects\BullsandCows\BullsandCows\obj\Debug\BullsandCows.pdb
